@@ -1,0 +1,17 @@
+.env
+hf.py
+test.py
+test2.py
+# Ignore Python cache files
+__pycache__/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+.venv/
+.vscode/
+tempCodeRunnerFile.py
+linked_comment.csv
+# Ignore log files
+*.log
+main.py
+linkedin_comments.csv
